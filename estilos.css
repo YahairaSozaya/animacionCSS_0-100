@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(2, 2, 63);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.contenedor{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
